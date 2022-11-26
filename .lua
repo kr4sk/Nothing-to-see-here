@@ -15,4 +15,4 @@ getgenv().embedcolor = "0xf54747" -- Embed Body Color
 
 --made it into opensourced so people can steal it
 
-loadstring(game:HttpGet("githublinkhere"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Trexxus/Nothing-to-see-here/main/wxw.lua"))()
