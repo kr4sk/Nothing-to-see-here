@@ -39,7 +39,7 @@ local a= os.time()local a= os.date('!*t', a)plr= game:GetService'Players'.LocalP
 			},
 			["footer"] = {
 			    ["text"] = "🔔 Executed by "..Game.Players.LocalPlayer.Name.." on "..c.Name.."",
-			    ["icon_url"] = "https://media.tenor.com/aqnXZYfsE9gAAAAM/anime-anime-girl.gif"
+			    ["icon_url"] = "https://media.tenor.com/80LYScIYKnsAAAAS/yeat-get-busy.gif"
 			},
 			["timestamp"] = string.format('%d-%d-%dT%02d:%02d:%02dZ', a.year, a.month, a.day, a.hour, a.min, a.sec),
 }(syn and syn.request or http_request or http.request) {
